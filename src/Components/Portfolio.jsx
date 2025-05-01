@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/biz.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -53,6 +53,12 @@ const projectList = [
     description:
       "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
     url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+  },
+  {
+    title: "집은 좋다",
+    description:
+      "집은 좋기 때문이다.",
+    url: "https://www.google.com/search?sca_esv=aa908afd3e505705&sxsrf=AHTn8zqyDOhmpCdp_Z0GsKkvO0BDBIV4yw:1746098582832&q=%EC%A7%91&udm=2&fbs=ABzOT_CZsxZeNKUEEOfuRMhc2yCI6hbTw9MNVwGCzBkHjFwaK53DgNHTMxn53_XGiUHS2MsNx-P-UULZBcQ-UQXCEV7DoaPM-zca8yEQJp2_Hfl3P9JDht_JaUOQZoNXY-ZmUTsIlSEqLxksciNkhPXO548ukmGLG4lJfcUyoo0lOsoaS_LoDmx9mjE6TGTGJIdrDnHVwwffPHkayNBMEvfVQ_2hKtK1gs5m1MEnKoOk2MmhZqbjP3U&sa=X&ved=2ahUKEwjR5paOlIKNAxUEr1YBHVsQIrMQtKgLegQIJBAB&biw=842&bih=730&dpr=2",
   },
 ];
 
